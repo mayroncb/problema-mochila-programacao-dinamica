@@ -1,0 +1,34 @@
+Instância: mochila01.txt
+n: 7
+Capacidade: 23
+Valor ótimo: 107
+Peso usado: 23
+Quantidade de itens: 4
+
+Instância: mochila02.txt
+n: 5
+Capacidade: 10
+Valor ótimo: 130
+Peso usado: 9
+Quantidade de itens: 2
+
+Instância: mochila1000.txt
+n: 1000
+Capacidade: 12811
+Valor ótimo: 4135
+Peso usado: 12735
+Quantidade de itens: 86
+
+Instância: mochila2500.txt
+n: 2500
+Capacidade: 31896
+Valor ótimo: 37138
+Peso usado: 31896
+Quantidade de itens: 1102
+
+Instância: mochila5000.txt
+n: 5000
+Capacidade: 62862
+Valor ótimo: 71811
+Peso usado: 62862
+Quantidade de itens: 2138
