@@ -53,4 +53,4 @@ Os seguintes resultados foram obtidos ao executar o script nas instâncias forne
 
 ## Licença
 
-Este projeto é distribuído sob a licença [MIT](LICENSE). Você é livre para usar, copiar, modificar e distribuir este código, desde que preserve o aviso de direitos autorais e a licença.
+Este projeto é distribuído para fins acadêmicos. Sinta-se à vontade para usá-lo e modificá-lo para aprendizado.
