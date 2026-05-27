@@ -1,0 +1,6 @@
+instancia,n,capacidade,valor_otimo,peso_usado,quantidade_itens
+mochila01.txt,7,23,107,23,4
+mochila02.txt,5,10,130,9,2
+mochila1000.txt,1000,12811,4135,12735,86
+mochila2500.txt,2500,31896,37138,31896,1102
+mochila5000.txt,5000,62862,71811,62862,2138
