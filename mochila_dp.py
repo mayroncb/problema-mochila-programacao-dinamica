@@ -21,7 +21,6 @@ O programa recebe como argumento o caminho para o arquivo da instância e
 escreve o resultado no terminal. Para calcular as soluções de todas as
 instâncias na pasta ``instancias``, execute este script sem argumentos.
 
-Autor: Estudante de Mestrado em Informática
 """
 from __future__ import annotations
 
