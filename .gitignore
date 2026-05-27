@@ -1,0 +1,14 @@
+# Ignora diretórios e arquivos temporários do Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignora arquivos de resultado e relatórios temporários
+resultados_mochila.txt
+resultados_mochila.csv
+
+# Ignora arquivos de pacotes
+*.zip
+*.tar.gz
+*.egg-info/
