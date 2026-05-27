@@ -1,0 +1,2 @@
+# Este projeto depende apenas da biblioteca padrão do Python 3.
+# Caso queira instalar em um ambiente virtual, basta possuir o Python 3.8 ou superior.
